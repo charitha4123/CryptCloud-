@@ -1,0 +1,1 @@
+Java is a programming language that developers use to create applications on your computer.Java that Chances are you've downloaded a program that required the Java runtime, and so you probably have it installed it on your system. Java also has a web plug-in that allows you to run these apps in your browser.
